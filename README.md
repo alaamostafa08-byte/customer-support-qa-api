@@ -15,8 +15,8 @@ Python, FastAPI, Groq API (`llama-3.1-8b-instant`), Pydantic, python-dotenv, Uvi
 ## Setup
 
 ```bash
-git clone https://github.com/alaamostafa08-byte/rag-customer-support-api.git
-cd rag-customer-support-api
+git clone https://github.com/alaamostafa08-byte/customer-support-qa-api.git
+cd customer-support-qa-api
 python -m venv venv
 venv\Scripts\activate        # on macOS/Linux: source venv/bin/activate
 pip install -r requirements.txt
